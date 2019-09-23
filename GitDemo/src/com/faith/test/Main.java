@@ -6,7 +6,7 @@ public class Main {
 		
 		SalesData obj=new SalesData();
 		
-		System.out.println("hello vidhya krish");
+		System.out.println("hello)))) vidhya krish");
 		displayGreetings();
 		obj.display();
 
