@@ -4,7 +4,7 @@ public class SalesData {
 	
 	void display()
 	{
-		System.out.println(" VIDHYA sales report 201519....");
+		System.out.println(" VIDHYA a v sales report 201519....");
 	}
 
 }
